@@ -15,6 +15,8 @@ public class Main {
 		Course[] courses = new Course[5];
 		
 		
+		System.out.println("Ödev2");
+		
 		man.addCourse(courses, csharpCourse);
 		man.addCourse(courses, javaCourse);
 		
