@@ -5,3 +5,4 @@ public class InstructorManager extends UserManager{
 	System.out.println(instructor.getFirstName()+ " " + instructor.getLastName() + " Branþý: " + instructor.getBranch());
 	}
 }
+ 

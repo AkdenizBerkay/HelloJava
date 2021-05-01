@@ -4,7 +4,7 @@ public class StudentManager extends UserManager {
 	
 	public void getAverage(Student student) {
 		System.out.println(student.getFirstName()+ " " + student.getLastName() + " Ortalaması: " + student.getAveragePoint());
-	}
+	} 
 	
 	@Override
 	public void getUserInfo(User user) {

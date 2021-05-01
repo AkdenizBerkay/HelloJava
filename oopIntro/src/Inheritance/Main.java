@@ -8,7 +8,7 @@ public class Main {
 		ogrenci1.setLastName("Yalýn");
 		ogrenci1.setAveragePoint(80.5);
 		ogrenci1.setUserId(2);
-		
+		 
 		Instructor ogretmen1 =new Instructor();
 		ogretmen1.setFirstName("Veli");
 		ogretmen1.setLastName("Kale");
