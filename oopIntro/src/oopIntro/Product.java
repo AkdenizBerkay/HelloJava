@@ -3,7 +3,7 @@ package oopIntro;
 public class Product {
 	
 	//encapsulation
-	//final id;
+	//final id; 
 	//final, sadece constructor da set edilebilir demek.
 	private int id;
 	private String name;

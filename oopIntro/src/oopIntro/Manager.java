@@ -3,7 +3,7 @@ package oopIntro;
 public class Manager {
 	public void publishCourse(Course course) {
 		System.out.println(course.CourseName + " yayýna alýnmýþtýr.");
-	}
+	} 
 	public void closeCourse(Course course) {
 		System.out.println(course.CourseName + " yayýndan kaldýrýlmýþtýr.");
 	}

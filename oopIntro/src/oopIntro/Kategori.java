@@ -6,7 +6,7 @@ public class Kategori {
 	
 	public Kategori() {
 		
-	}	
+	}	 
 	
 	public Kategori(int categoryId, String categoryName) {
 		super();
