@@ -26,7 +26,7 @@ public class Main {
 		man.publishCourse(javaCourse);
 		man.closeCourse(csharpCourse);
 		*/
-		
+		//commit deneme amaçlý yazýldý.
 		Product product1 = new Product(1,"Lenova V14",15000,"16 GB Ram",10);
 		Product product2 = new Product();
 		product2.setName("Lenovo V15");
